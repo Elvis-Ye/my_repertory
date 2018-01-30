@@ -2,9 +2,8 @@
 public class Main {
 
 	public static void main(String[] args) {
-	    System.out.println("hello");
-	    System.out.println("hello Baidu");
-	    System.out.println("hello Google");
+	    System.out.println("hello Baidu1");
+	    System.out.println("hello Google1");
 
 	}
 
